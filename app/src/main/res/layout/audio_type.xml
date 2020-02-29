@@ -4,7 +4,8 @@
     xmlns:card_view="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    card_view:cardElevation="10dp">
+    card_view:cardElevation="10dp"
+    android:id="@+id/audioTypeCardView">
 
     <RelativeLayout
         android:layout_width="match_parent"
